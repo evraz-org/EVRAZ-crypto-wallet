@@ -9,7 +9,7 @@
 6. google-services.json -> This file stores the info when connecting firebase
  
  ### Product info
-#### EVRAZ Crypto Wallet is an mobile app for EVRAZ at BitShares blockchain for Android devices. The main features are:
+#### EVRAZ Crypto Wallet is a mobile app at BitShares blockchain for Android devices. The main features are:
  
 * **Wallet:**
 1. Check your balance
