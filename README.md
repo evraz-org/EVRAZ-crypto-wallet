@@ -1,4 +1,4 @@
-# evraz_wallet
+# evraz_crypto_wallet
 
 ### Technical info 
 1. The core structure of EVRAZ Wallet reuses the bitshares-core implementation. All communication protocols were developed from scratch. The communication part will be separated as a library in the future.
@@ -9,7 +9,7 @@
 6. google-services.json -> This file stores the info when connecting firebase
  
  ### Product info
-#### EVRAZ Wallet is an app for EVRAZ in BitShares blockchain on Android devices. The main features are:
+#### EVRAZ Crypto Wallet is an mobile app for EVRAZ at BitShares blockchain for Android devices. The main features are:
  
 * **Wallet:**
 1. Check your balance
